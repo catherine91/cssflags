@@ -1,0 +1,201 @@
+.franceFlag {
+  width: 240px;
+  height: 160px;
+  border: 1px solid black;
+}
+
+.franceBlue {
+  height: 100%;
+  width: 33%;
+  background-color: #002495;
+  float: left;
+}
+
+.franceWhite {
+  height: 100%;
+  width: 33%;
+  background-color: #FFFFFF;
+  float: left;
+}
+
+.franceRed {
+  height: 100%;
+  width: 34%;
+  background-color: #ED2938;
+  float: left;
+}
+
+.germanFlag {
+  width: 266.66px;
+  height: 160px;
+  border: 1px solid black;
+}
+
+.germanBlack {
+  height: 33.33%;
+  width: 100%;
+  background-color: #000000;
+}
+
+.germanRed {
+  height: 33.33%;
+  width: 100%;
+  background-color: #DE0002;
+}
+
+.germanYellow {
+  height: 33.33%;
+  width: 100%;
+  background-color: #FFCE00;
+}
+
+.madagascarFlag {
+  width: 240px;
+  height: 160px;
+  border: 1px solid black;
+}
+
+.madagascarVerticalWhiteStripe {
+  height: 100%;
+  width: 33.33%;
+  background-color: #FFFFFF;
+  float: left;
+}
+
+.madagascarRed {
+  height: 50%;
+  width: 66.66%;
+  background-color: #FC3E32;
+  float: right;
+}
+
+.madagascarGreen {
+  height: 50%;
+  width: 66.66%;
+  background-color: #007E39;
+  float: right;
+}
+
+.swissFlag {
+  height: 160px;
+  width: 160px;
+  border: 1px solid black;
+}
+
+.outerSwissRow {
+  background-color: #FF0002;
+  width: 100%;
+  height: 15%;
+}
+
+.innerSwissRow {
+  width: 100%;
+  height: 27.5%;
+}
+
+.innerSwissOuterColumn {
+  background-color: #FF0002;
+  height: 100%;
+  float: left;
+  width: 42.5%
+}
+
+.innerSwissMiddleColumn {
+  background-color: #FFFFFF;
+  height: 100%;
+  float: left;
+  width: 15%;
+}
+
+.middleSwissRow {
+  height: 15%;
+  width: 100%;
+}
+
+.middleSwissOuterColumn {
+  background-color: #FF0002;
+  width: 15%;
+  height: 100%;
+  float: left;
+}
+
+.middleSwissMiddleColumn {
+  background-color: #FFFFFF;
+  width: 70%;
+  height: 100%;
+  float: left;
+}
+
+.swedenFlag {
+  height: 160px;
+  width: 256px;
+  border: 1px solid black;
+}
+
+.upperSwedenRow {
+  width: 200%;
+  height: 40%;
+  float: left;
+}
+
+.upperfirstSwedenRow {
+  background-color: #0269A6;
+  height: 100%;
+  width: 33%;
+  float: left;
+}
+
+.uppersecondSwedenRow {
+  background-color: #FECC00;
+  height: 100%;
+  width: 19%;
+  float: left;
+}
+
+.upperthirdSwedenRow {
+  background-color: #0269A6;
+  height: 100%;
+  width: 40%;
+  float: right;
+}
+
+.centerSwedenRow
+{
+  width: 200%;
+  height: 20%;
+  float: left;
+}
+
+.centerSwedenRow {
+  background-color: #FECC00;
+  width: 100%;
+  height: 20%;
+  float: left;
+}
+
+.lowerSwedenRow {
+  width: 200%;
+  height: 40%;
+  float: left;
+}
+
+.lowerfourthSwedenRow {
+  background-color: #0269A6;
+  height: 100%;
+  width: 33%;
+  float: left;
+}
+
+.lowerfifthSwedenRow {
+  background-color: #FECC00;
+  height: 100%;
+  width: 19%;
+  float: left;
+}
+
+.lowersixthSwedenRow {
+  background-color: #0269A6;
+  height: 100%;
+  width: 40%;
+  float: right;
+}
